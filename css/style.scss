@@ -13,6 +13,7 @@ body, html {
 
 header {
   width: 60%;
+  height: 150px;
   margin: 0 auto;
 
   h1 {
@@ -58,8 +59,4 @@ main {
 
   grid-template-columns: repeat(3, 33%);
   grid-auto-rows: 1fr;
-}
-
-.category {
-
 }
