@@ -19,11 +19,22 @@ header {
     text-align: left;
     font-size: 3rem;
     margin: 0;
+    display: table;
   }
 
   a {
     color: #ffc;
     text-decoration: none;
+
+    display: grid;
+    grid-template-columns: 150px auto;
+    align-items: end;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
   }
 }
 
@@ -38,9 +49,8 @@ text-transform: capitalize;
 }
 
 main {
-
   width: 60%;
-  margin: 0 auto;
+  margin: 3rem auto;
 }
 
 #cats {
