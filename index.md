@@ -1,15 +1,23 @@
 ---
+layout: index
 ---
 
-# Index
+**Welcome to OddWiki!**
 
+This site is intended to become a fully sourced Oddworld Encyclopedia, where
+unsure fans can come to make sure their knowledge is correct.
+
+<div id="cats">
 {% for collection in site.collections %}
-<section>
-<h1>{{ collection.label }}</h1>
-
+{% if collection.label != "posts" %}
+<div class="category">
+<h3>{{ collection.label }}</h3>
+<ul>
 {% for post in site.[collection.label] %}
-<a href="{{post.url}}">{{post.title}}</a>
+<li><a href="{{post.url}}">{{post.title}}</a></li>
 {% endfor %}
-
-</section>
+</ul>
+</div>
+{% endif %}
 {% endfor %}
+</div>

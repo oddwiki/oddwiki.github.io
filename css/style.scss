@@ -1,6 +1,55 @@
 ---
 ---
 
-h1 {
-text-align: center;
+body, html {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Cantarell", "Helvetica", sans-serif;
+
+  background: #323;
+  color: #ffffaa;
+}
+
+header {
+  width: 60%;
+  margin: 0 auto;
+
+  h1 {
+    text-align: left;
+    font-size: 3rem;
+    margin: 0;
+  }
+
+  a {
+    color: #ffc;
+    text-decoration: none;
+  }
+}
+
+
+a {
+  color: #aaaa88;
+}
+
+h3 {
+  display: table;
+text-transform: capitalize;
+}
+
+main {
+
+  width: 60%;
+  margin: 0 auto;
+}
+
+#cats {
+  display: grid;
+
+  grid-template-columns: repeat(3, 33%);
+  grid-auto-rows: 1fr;
+}
+
+.category {
+
 }
