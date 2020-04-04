@@ -1,5 +1,5 @@
 ---
-Title: "Munch's Oddysee@
+Title: "Munch's Oddysee"
 ---
 
 Little Golden Boi save da day
