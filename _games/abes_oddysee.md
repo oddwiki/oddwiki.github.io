@@ -2,6 +2,6 @@
 title: "Abe's Oddysee"
 ---
 
-gluk big boss
+Gluk big boss
 
 Abe big bad
