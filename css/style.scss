@@ -1,0 +1,53 @@
+---
+---
+
+@import "header.css";
+
+$width: 700px;
+
+body, html {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Cantarell", "Helvetica", sans-serif;
+
+  background: #323;
+  color: #ffffaa;
+}
+
+a {
+  color: #aaaa88;
+}
+
+#pagetitle {
+  font-size: 4rem;
+}
+
+main {
+  h1,h2,h3 {
+    background: #212;
+    padding: 0.2rem 1rem 0.5rem 1rem;
+    display: table;
+    box-sizing: border-box;
+  }
+}
+
+p {
+  width: $width;
+}
+
+h3 {
+  display: table;
+  text-transform: capitalize;
+}
+
+main {
+  width: 60%;
+  margin: 3rem auto;
+}
+
+#cats {
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+  grid-auto-rows: 1fr;
+}

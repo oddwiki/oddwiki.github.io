@@ -1,0 +1,25 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+collections:
+  species:
+    output: true
+  locations:
+    output: true
+  games:
+    output: true
+  characters:
+    output: true
+  concepts:
+    output: true
+  irl:
+    output: true
+  misc:
+    output: true
+
+kramdown:
+  parse_block_html: true
