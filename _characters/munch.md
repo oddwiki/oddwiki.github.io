@@ -20,9 +20,9 @@ He is short in stature with a large shark-like head, this element would play wit
 Munch is a little freedom fighter, he does not talk much but his voice is croaked and does not speak words as fast as other species. Munch is the kind of creature to put his life in danger to save those in need
 
 # Appears In
-Munch's Oddysee
-Munch's Oddysee HD
-Munch's Oddysee Gameboy Advance
+* Munch's Oddysee
+* Munch's Oddysee HD
+* Munch's Oddysee Gameboy Advance
 
 # Trivia
 since munch was captured in a trap, a wheelchair seemed to be the most obvious choice for his mode of land transportation. The final design was actually quite traitional, with an Oddworld twist of course.
@@ -33,5 +33,5 @@ since munch was captured in a trap, a wheelchair seemed to be the most obvious c
 {% include figure.html url="https://www.oddworld.com/wp-content/uploads/munch-comparison-500px.jpg" %}
 
 # References
-http://www.oddworld.com/oddworldgames/munchs-oddysee/
-The Art of Oddworld Inhabitants
+* http://www.oddworld.com/oddworldgames/munchs-oddysee/
+* The Art of Oddworld Inhabitants
