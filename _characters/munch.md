@@ -18,6 +18,6 @@ The device can also be used to free the [Fuzzle](/species/fuzzle) test subjects 
 
 # Trivia
 
-# References
-
 # Gallery
+
+# References
