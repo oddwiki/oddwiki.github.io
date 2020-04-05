@@ -12,7 +12,7 @@ The device can also be used to free the [Fuzzle](/species/fuzzle) test subjects 
 
 # Appearance
 >Munch is a small greyish purple amphibian like creature known as a [Gabbit](/species/gabbit),
->He is short in stature with a large head that contains 2 large bulging eyes, little pointy teeth and a golden sonar device >which was implanted by the [Vykkers](/species/vykkers), Munch has a single fin like leg which helps him swim at high speeds in >large bodies of water, but this also causes his mobility to be hindered on land forcing him to use a wheelchair.
+>He is short in stature with a large head that contains 2 large bulging eyes, little pointy teeth and a golden sonar device >which was implanted by the [Vykkers](/species/vykkers), Munch has a single fin like leg which helps him swim at high speeds in large bodies of water, but this also causes his mobility to be hindered on land forcing him to use a wheelchair.
 
 # Personality
 
