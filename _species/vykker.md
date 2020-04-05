@@ -2,8 +2,6 @@
 title: "Vykker"
 ---
 
-# Vykker #
-
 Vykkers are an industrialist race of tripedal creatures native to Eastern Mudos, though some were known to have travelled further afield to the West (see Vykker Doc). Commonly scientists or doctors, most Vykkers were employed by the Vykker Conglomerate in such establishments as Vykkers Labs. 
 
 {% include toc.html %}
@@ -14,9 +12,11 @@ Vykkers are an andrognyous, hermaphroditic race of purple-skinned tripeds. They 
 
 Vykkers have a total of seven limbs. Four of these are short, spindly arms, each ending in three long-clawed digits (but no discernible hand). Notably, the claws themselves are used for gripping objects, as opposed to the digits, which are short and stubby in comparison. The remaining limbs are legs, arranged in a tripodal stance with two facing forwards and one backwards. These are also short and stubby.
 
-Unlike a number of other Industrialist species on Mudos, Vykkers are hermaphroditic rather than eusocial. That is to say that, unlike Glukkons, Sligs and Mudokons, Vykkers have no queen or defined class structure. Like Mudokons, Vykkers show little regard for clothing, usually dressing in little more than a loincloth, though headgear and eyewear are also common. The vast majority of Vykkers speak in a shrill, whiny voice, though some have a much deeper register (see Headley).
+Unlike a number of other Industrialist species on Mudos, Vykkers are hermaphroditic rather than eusocial. That is to say that, unlike Glukkons, Sligs and Mudokons, Vykkers have no queen or defined class structure. Instead, they reproduce asexually, a phenomenon which can only occur during a few very small windows over the course of their lives.
 
 Although they bear a passing resemblance to the Glukkons (and indeed the rest of the Octigi family), Vykkers belong to a distinct taxonomic order. The only other species known to exist within this order are the Interns, who are often exploited by their Vykker cousins as an indentured labour and security force.
+
+Like Mudokons, Vykkers show little regard for clothing, usually dressing in little more than a loincloth, though headgear and eyewear are also common. The vast majority of Vykkers speak in a shrill, whiny voice, though some have a much deeper register (see Headley).
 
 ## Background ##
 
@@ -32,42 +32,38 @@ Though the Vykkers primarily operated within the Vykker’s Conglomerate in East
 
 ## Notable Individuals ##
 
-Humphrey
-
-Irwin
-
-Headley
-
-Doc
+* Humphrey
+* Headley
+* Irwin
+* Doc
 
 ## Appearances ##
 
-Abe's Exoddus (First Mentioned)
+#### Games ####
 
-Munch's Oddysee (First Appearance)
+* Oddworld: Abe's Exoddus *(First Mentioned)*
+* Oddworld: Munch's Oddysee *(First Appearance)*
+* Oddworld: Stranger's Wrath
+* Oddworld: Stranger's Wrath HD
+* Oddworld: Munch's Oddysee HD
+* Oddworld: Soulstorm *(Teaser Trailer)*
 
-Stranger's Wrath
+#### Other Media ####
 
-The Art of Oddworld Inhabitants: The First Ten Years 1994 - 2004
-
-Stranger's Wrath HD
-
-Munch's Oddysee HD
-
-SoulStorm Teaser
+* The Art of Oddworld Inhabitants: The First Ten Years, 1994-2004
 
 ## Trivia ##
 
-The concept for the Vykkers was inspired by UFO abduction stories from real-world popular culture. The creatures resemble ‘typical’ aliens and Vykkers Labs itself is reminiscent of a flying saucer.
+* The concept for the Vykkers was inspired by UFO abduction stories from real-world popular culture. The creatures resemble ‘typical’ aliens and Vykkers Labs itself is reminiscent of a flying saucer.
 
-Though the biological classification of Vykkers remains unknown, they are confirmed to exist within the same taxonomic order as their subservient Interns.
+* Though the biological classification of Vykkers remains unknown, they are confirmed to exist within the same taxonomic order as their subservient Interns.
 
 ## Gallery ##
 
 ## References ##
 
-http://oddworldlibrary.net/toe/Vykkers 
-
-http://oddworldlibrary.net/archives/togg/index.php?/tags/45-vykker 
-
-http://www.oddworld.com/tag/vykkers/ 
+- *Dear Alf 54*, http://www.oddworld.com/2013/11/dear-alf-54-abe-stranger/
+- *Oddworld: Munch's Oddysee - A Brief History*, https://web.archive.org/web/20090602003657/http://www.xbox.com/en-US/games/o/oddworldmunchsoddysee/storyline.htm
+- *Oddworld: Munch's Oddysee - Game Manual*, https://www.manualslib.com/manual/379175/Games-Microsoft-Xbox-Oddworld-Munch-S-Oddysee.html?page=13#manual
+- *The Oddworld Graphics Gallery*, http://oddworldlibrary.net/archives/togg/index.php?/tags/45-vykker 
+- *The Art of Oddworld Inhabitants: The First Ten Years, 1994-2004*, http://online.fliphtml5.com/vovua/gcxi/#p=1
