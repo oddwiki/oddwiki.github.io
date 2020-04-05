@@ -18,7 +18,7 @@ The appearance of the character is largely unknown, aside from a single intervie
 
 Unknown.
 
-# Appearances
+# Appears in
 
 Squeek's own game would have been [Squeek's Oddysee](/games/squeeksoddysee). However, it never came out.
 
@@ -32,7 +32,7 @@ Squeek's own game would have been [Squeek's Oddysee](/games/squeeksoddysee). How
 
   This is in fact [a reference to Futurama](https://www.youtube.com/watch?v=NOof2wTf2a4), in which one of the characters gets possessed by a brain slug.
 
-# Images
+# Gallery
 
 {% capture descrip %}
 A piece of concept art, drawn by <a href="/irl/silvioaebischer">Silvio Aebischer</a>, supposedly depicting Squeek. It was never confirmed whether this is really the character or not.
