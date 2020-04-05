@@ -4,9 +4,9 @@ title: The Big Well
 
 *"You just gotta jump in!"* - Alf
 
-The Big Well is a natural landmark located in North-west Mudos that can be found in [Munches Oddysee](/games/munchesoddysee).
+The Big Well is a natural landmark located in North-west Mudos that can be found in [Munch's Oddysee](/games/munchsoddysee).
 
-When Abe and his friends find the well by [The Mighy Raisins](/characters/themightyraisen) instructions, Abe is reluctant to jump in saying
+When Abe and his friends find the well by [The Almighty Raisin's](/characters/thealmightyraisin) instructions, Abe is reluctant to jump in saying
 "Isn't that way too high?" while pointing up to a passing by [Vykkers Labs](/locations/vykkerslabs) and then saying "That's a kinda scary well" while the camera pans over the extraordinarily large opening.
 
 The Big Well appears to be a massive geyser that fires anything that go in, back out at incredible speed, 
