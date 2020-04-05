@@ -4,6 +4,8 @@ title: Squeek
 
 Squeek was supposed to be the third protagonist of the [Oddworld Quintology](/concepts/quintology), but since it has been rebooted, the answer to whether the character is even part of the series anymore became dubious.
 
+{% include toc.html %}
+
 # Appearance
 
 The appearance of the character is largely unknown, aside from a single interview[^interw] that gives a few details about his circumstances:

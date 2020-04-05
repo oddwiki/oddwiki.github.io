@@ -20,3 +20,6 @@ collections:
     output: true
   misc:
     output: true
+
+kramdown:
+  parse_block_html: true
