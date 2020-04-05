@@ -10,8 +10,8 @@ The device can also be used to free the (Fuzzle) test subjects from their cages,
 
 Content
 1. Bakground
-1.1. Good Ending
-1.2. Bad Ending
+Good Ending
+Bad Ending
 2. Trivia
 3. Gallery
 4. Appearances
