@@ -1,5 +1,5 @@
 ---
-Title: "Soulstorm"
+title: "Soulstorm"
 ---
 
 A Myth &  a legend
