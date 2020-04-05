@@ -6,7 +6,7 @@ Squeek was supposed to be the third protagonist of the [Oddworld Quintology](/co
 
 # Appearance
 
-The appearance of the character is largely unknown, aside from a single interview[^interw] gives a few details about his circumstances:
+The appearance of the character is largely unknown, aside from a single interview[^interw] that gives a few details about his circumstances:
 
 > **You once named Squeek’s Oddysee as the third entry - what was your concept, at least at the time?**
 >
@@ -29,6 +29,14 @@ Squeek's own game would have been [Squeek's Oddysee](/games/squeeksoddysee). How
   > **Alf:** Squeek’s Oddysee will use a special controller called a Brain Slurg. You insert the Brain Slurg in your ear and it takes over control of your body. It’s immersive!
 
   This is in fact [a reference to Futurama](https://www.youtube.com/watch?v=NOof2wTf2a4), in which one of the characters gets possessed by a brain slug.
+
+# Images
+
+{% capture descrip %}
+A piece of concept art, drawn by <a href="/irl/silvioaebischer">Silvio Aebischer</a>, supposedly depicting Squeek. It was never confirmed whether this is really the character or not.
+{% endcapture %}
+
+{% include figure.html url="/imgs/squeek/Squeek_concept_art.webp" text=descrip %}
 
 # References
 
