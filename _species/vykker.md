@@ -1,3 +1,7 @@
+---
+title: "Vykker"
+---
+
 # Vykker #
 
 Vykkers are an industrialist race of tripedal creatures native to Eastern Mudos, though some were known to have travelled further afield to the West (see Vykker Doc). Commonly scientists or doctors, most Vykkers were employed by the Vykker Conglomerate in such establishments as Vykkers Labs. 
