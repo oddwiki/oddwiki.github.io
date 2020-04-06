@@ -40,7 +40,6 @@ body {
   grid-template-columns: auto 60%;
   grid-template-areas:". body";
 
-  width: 1900px;
 
   & > div {
   grid-area: body;
