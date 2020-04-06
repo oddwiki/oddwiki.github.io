@@ -5,6 +5,8 @@ defaults:
     values:
       layout: "default"
 
+collections_dir: categories
+
 collections:
   species:
     output: true
