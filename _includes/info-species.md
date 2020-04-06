@@ -7,33 +7,14 @@
 
 {{ include.item.summary }}
 
-# Biology
-{{ include.item.biology }}
+{% include building_blocks/biology.md %}
 
-# Background
-{{ include.item.background }}
+{% include building_blocks/notable-individual.md %}
 
-# Notable Individuals
-{% for individual in include.item.notable-individuals %}
-  * {{ individual }}
-{% endfor %}
+{% include building_blocks/features-in.md %}
 
-# Appears In
-{% for appearance in include.item.appears-in %}
-  * {{ appearance }}
-{% endfor %}
+{% include building_blocks/trivia.md %}
 
-# Trivia
-{% for trivia in include.item.trivia %}
-  * {{ trivia }}
-{% endfor %}
+{% include building_blocks/gallery.md %}
 
-# Gallery
-{% for image in include.item.gallery %}
-  {% include figure.html url=image.image-url text=image.description %}
-{% endfor %}
-
-# References
-{% for reference in include.item.references %}
-  * {{ reference }}
-{% endfor %}
+{% include building_blocks/references.md %}

@@ -7,17 +7,8 @@
 
 {{ include.item.summary }}
 
-# Trivia
-{% for trivia in include.item.trivia %}
-  * {{ trivia }}
-{% endfor %}
+{% include building_blocks/trivia.md %}
 
-# Gallery
-{% for image in include.item.gallery %}
-  {% include figure.html url=image.image-url text=image.description %}
-{% endfor %}
+{% include building_blocks/gallery.md %}
 
-# References
-{% for reference in include.item.references %}
-  * {{ reference }}
-{% endfor %}
+{% include building_blocks/references.md %}

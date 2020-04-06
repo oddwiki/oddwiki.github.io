@@ -1,0 +1,2 @@
+# Personality
+{{ include.item.personality }}
