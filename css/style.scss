@@ -53,9 +53,6 @@ body {
 }
 
 main {
-  //width: 60%;
-  //margin: 0 auto;
-
   h1,h2,h3 {
     background: #212;
     padding: 0.2rem 1rem 0.5rem 1rem;
@@ -76,6 +73,23 @@ main {
 
     p:last-child {
       margin-bottom: 0;
+    }
+  }
+
+  figure {
+    width: $width;
+
+    img {
+      width: 100%;
+    }
+
+    p {
+      width: calc(100% - 2rem);
+      margin: 0;
+      margin-top: -4px;
+
+      background: #212;
+      padding: 1rem;
     }
   }
 }

@@ -24,6 +24,6 @@ trivia: |
 
 gallery:
   - image-url: /imgs/squeek/Squeek_concept_art.webp
-  - description: "A piece of concept art, drawn by <a href=\"/irl/silvioaebischer\">Silvio Aebischer</a>, supposedly depicting Squeek. It was never confirmed whether this is really the character or not."
+    description: "A piece of concept art, drawn by <a href=\"/irl/silvioaebischer\">Silvio Aebischer</a>, supposedly depicting Squeek. It was never confirmed whether this is really the character or not."
 
 references: ["[^interw]: <https://www.wired.co.uk/article/oddworld-lorne-lanning-interview>", "[^joke]: <https://web.archive.org/web/20120427185637/http://www.oddworld.com/2012/03/dear-alf-march-2012/>"]
