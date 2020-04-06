@@ -78,18 +78,34 @@ main {
 
   figure {
     width: $width;
+    max-width: 100%;
 
     img {
       width: 100%;
     }
 
-    p {
-      width: calc(100% - 2rem);
+    figcaption {
+      width: calc(100% - 1.2rem);
       margin: 0;
       margin-top: -4px;
 
       background: #212;
-      padding: 1rem;
+      padding: 0.6rem;
+    }
+  }
+
+  #image_gallery {
+    width: $width * 1.25;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);    
+    grid-auto-rows: 1fr;
+    grid-gap: 1rem;
+
+    padding-left: 0;
+    list-style: none;
+
+    figure {
+      margin: 0;
     }
   }
 }
