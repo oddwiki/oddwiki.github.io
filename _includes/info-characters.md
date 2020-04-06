@@ -1,7 +1,7 @@
 # {{ include.item.name }}
 {:.no_toc}
 
-> {{ include.item.quote }}
+{% include building_blocks/quote.md %}
 
 {% include toc.html %}
 
