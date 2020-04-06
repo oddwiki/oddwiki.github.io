@@ -18,7 +18,9 @@
 {% endfor %}
 
 # Trivia
-{{ include.item.trivia }}
+{% for trivia in include.item.trivia %}
+  {{ trivia }}
+{% endfor %}
 
 # Gallery
 {% for image in include.item.gallery %}
