@@ -1,6 +1,11 @@
 {% if include.item.gallery %}
 # Gallery
+
+<ul id="image_gallery">
 {% for image in include.item.gallery %}
-  {% include figure.html url=image.image-url text=image.description %}
+  <li>
+{% include figure.html url=image.image-url text=image.description %}
+  </li>
 {% endfor %}
+</ul>
 {% endif %}
