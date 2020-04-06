@@ -2,9 +2,8 @@ name: "Vykker"
   
 summary: "Vykkers are an industrialist race of tripedal creatures native to Eastern Mudos, though some were known to have travelled further afield to the West (see Vykker Doc). Commonly scientists or doctors, most Vykkers were employed by the Vykker Conglomerate in such establishments as Vykkers Labs."
   
-description: |
-  
-##appearance## 
+biology: |
+  ## Appearance
   
   Vykkers are an andrognyous, hermaphroditic race of purple-skinned tripeds. They have frail bodies with disproportionately large heads and small, beady eyes. As a result of self-inflicted life extending surgery, which allows Vykkers to survive long past their natural lifespan, their skin is wrinkled and saggy, with bones, veins and muscles easily visible.
   
@@ -14,7 +13,7 @@ description: |
   
   Although they bear a passing resemblance to the Glukkons (and indeed the rest of the Octigi family), Vykkers belong to a distinct taxonomic order. The only other species known to exist within this order are the Interns, who are often exploited by their Vykker cousins as an indentured labour and security force.
   
-##behaviour##
+  ## Behaviour
   
   Vykkers are highly respected by the other Industrialist races of Eastern Mudos for their extensive knowledge of science and medicine. This knowledge is often used by Vykkers in order to extend their own lives by hundreds of years. In addition to this, through organisations such as Vykkers Pharmaceuticals, Vykkers apply their scientific knowledge to the research and development (often through animal testing) of a variety of medical products. It has been remarked that the fact Vykkers enjoy inflicting pain and unnecessary suffering on other species is a ‘happy coincidence’ considering their particular field of expertise. It is through this testing that the Vykkers continued to further their science at the cost of the near-extinction of indigenous species such as Gabbits.
   
@@ -25,8 +24,7 @@ description: |
   Like Mudokons, Vykkers show little regard for clothing, usually dressing in little more than a loincloth, though headgear and eyewear are also common. The vast majority of Vykkers speak in a shrill, whiny voice, though some have a much deeper register (see Headley).
   
   
-history: |
-  
+background: |
   Vykkers were almost universally affiliated with the Vykker’s Conglomerate, an industrial corporation based in Eastern Mudos which worked closely with the Magog Cartel run by the Glukkons. Though they were shown to place less value in financial success than their Glukkon business partners, some Vykkers were quite wealthy, and several were seen to flaunt their wealth in an exclusive auction for the last can of Gabbiar on Oddworld.
   However, for the most part, the Vykkers were happy to carry out their research simply because they enjoyed the infliction of pain on others.
   This research was typically conducted through Vykkers Pharmaceuticals, a division of the Vykker's Conglomerate which owned and operated a fleet of airborne research facilities.
@@ -36,30 +34,24 @@ history: |
   
 notable-individuals: ["Humphrey", "Headley", "Irwin", "Doc"]
   
-features in:
-  
-  ##games##
-    
+appears-in:
+  ## Games
     - "Oddworld: Abe's Exoddus *(First Mentioned)*"
     - "Oddworld: Munch's Oddysee *(First Appearance)*"
     - "Oddworld: Stranger's Wrath"
     - "Oddworld: Stranger's Wrath HD"
     - "Oddworld: Munch's Oddysee HD"
     - "Oddworld: Soulstorm *(Teaser Trailer)*"
-    
-  ##other-media##
-    
+  ## Other media
     - "The Art of Oddworld Inhabitants: The First Ten Years 1994 - 2004"
   
 trivia:
-  
-  ["The concept for the Vykkers was inspired by UFO abduction stories from real-world popular culture. The creatures resemble ‘typical’ aliens and Vykkers Labs itself is reminiscent of a flying saucer.",
-  "Though the biological classification of Vykkers remains unknown, they are confirmed to exist within the same taxonomic order as their subservient Interns."]
+  - "The concept for the Vykkers was inspired by UFO abduction stories from real-world popular culture. The creatures resemble ‘typical’ aliens and Vykkers Labs itself is reminiscent of a flying saucer."
+  - "Though the biological classification of Vykkers remains unknown, they are confirmed to exist within the same taxonomic order as their subservient Interns."
   
 gallery:
   
 references:
-  
   - "*Dear Alf 54*, http://www.oddworld.com/2013/11/dear-alf-54-abe-stranger/"
   - "*Oddworld: Munch's Oddysee - A Brief History*, https://web.archive.org/web/20090602003657/http://www.xbox.com/en-US/games/o/oddworldmunchsoddysee/storyline.htm"
   - "*Oddworld: Munch's Oddysee - Game Manual*, https://www.manualslib.com/manual/379175/Games-Microsoft-Xbox-Oddworld-Munch-S-Oddysee.html?page=13#manual"
