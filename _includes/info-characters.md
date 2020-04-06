@@ -1,4 +1,5 @@
 # {{ include.item.name }}
+{:.no_toc}
 
 > {{ include.item.quote }}
 
