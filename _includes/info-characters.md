@@ -1,10 +1,11 @@
 # {{ include.item.name }}
+{:.no_toc}
 
 > {{ include.item.quote }}
 
-{{ include.item.summary }}
-
 {% include toc.html %}
+
+{{ include.item.summary }}
 
 # Appearance
 {{ include.item.appearance }}

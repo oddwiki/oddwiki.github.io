@@ -1,10 +1,11 @@
 # {{ include.item.name }}
+{:.no_toc}
 
 > {{ include.item.quote }}
 
-{{ include.item.summary }}
-
 {% include toc.html %}
+
+{{ include.item.summary }}
 
 # Trivia
 {% for trivia in include.item.trivia %}
@@ -13,9 +14,7 @@
 
 # Gallery
 {% for image in include.item.gallery %}
-  ![]({{ image.image-url }})
-
-  {{ image.description }}
+  {% include figure.html url=image.image-url text=image.description %}
 {% endfor %}
 
 # References
