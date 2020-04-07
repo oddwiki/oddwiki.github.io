@@ -3,9 +3,10 @@
 
 <ul id="image_gallery">
 {% for image in include.item.gallery %}
-  <li>
+<li>
 {% include figure.html url=image.image-url text=image.description %}
-  </li>
+</li>
 {% endfor %}
 </ul>
+
 {% endif %}
