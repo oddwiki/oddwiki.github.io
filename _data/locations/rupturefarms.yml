@@ -7,11 +7,12 @@ summary: |
 
   **RuptureFarms 1029** is a central location of [Abe's Oddysee](/games/abes_oddysee). It is a gigantic meat-packing plant, housing a hundred (three hundred and one in New 'n' Tasty) Mudokons and several dozen Sligs, along with the facility's board of directors, a group of [Glukkons](/species/glukkon), headed by [Molluck](/characters/molluck), who is the son of [Lady Margaret](/characters/lady_margaret), current interim head of the [Magog Cartel](/concepts/magog_cartel).
 
-  ## Appearance
+  ## Fate
 
+  Depending on Abe's choices, RuptureFarms is eventually destroyed a mythical storm, caused by a team of Mudokons, who activate a device called the Rainmaker. The wild lightnings that incapacitate Molluck and kill his Slig aide, also cause a fire inside the facility, which being largely deserted and cut-off power burned down.
+
+appearance: |
   ### Abe's Oddysee
-
-  {% include figure.html url="/imgs/rupturefarms/ao.png" text="RuptureFarms 1029 as it appears in Abe's Oddysee." %}
 
   RuptureFarms in Abe's Oddysee is a decrepit looking, run down factory, surrounded by gigantic smokestacks that belch smoke, dimming the sky above. A gigantic dimly lit sign informs anyone unfortunate enough to tread on a land like this, that they entered the facility's grounds.
 
@@ -21,15 +22,11 @@ summary: |
 
   Unlike in Abe's Oddysee, the RuptureFarms of New 'n' Tasty is an almost futuristic looking building featuring huge neon lights and a much sleeker and clean outside design.
 
-  Despite this, the inside of the factory remains largely similar in term of dirtiness, however, this is much less apparent, as the entire building became a lot more bright. The signs and posters are replaced with modern-looking advertising signs.
+  Despite this, the inside of the factory remains largely similar in term of dirtiness, however, this is much less apparent, as the entire building became a lot more bright, both in the sense of ambient lighting and in a heavily increased number of lamps and LEDs scattered around. The signs and posters are replaced with modern-looking advertising signs.
 
   ### Soulstorm
 
   On a piece of promotional material, we can see the outskirts on which RuptureFarms is built, along with the smouldering remains of the facility. Notably, unlike in Abe's Oddysee, RuptureFarms is surrounded by an uninhabited prairie, instead of a complex network of buildings.
-
-  ## Fate
-
-  Depending on Abe's choices, RuptureFarms is eventually destroyed a mythical storm, caused by a team of Mudokons, who activate a device called the Rainmaker. The wild lightnings that incapacitate Molluck and kill his Slig aide, also cause a fire inside the facility, which being largely deserted and cut-off power burned down.
 
 features-in:
   - "Abe's Oddysee"
@@ -43,3 +40,7 @@ trivia:
 gallery:
   - image-url: "/imgs/rupturefarms/cathedral.png"
     description: "RuptureFarms as a cathedral as seen in The Art of Oddworld Inhabitants."
+  - image-url: "/imgs/rupturefarms/ao.png"
+    description: "RuptureFarms as it appears in Abe's Oddysee."
+  - image-url: "/imgs/rupturefarms/nnt.webp"
+    description: "New 'n' Tasty's version of RuptureFarms."
