@@ -1,11 +1,11 @@
 name: "Vykker"
   
-summary: "Vykkers are an industrialist race of tripedal creatures native to Eastern Mudos, though some were known to have travelled further afield to the West (see Vykker Doc). Commonly scientists or doctors, most Vykkers were employed by the Vykker Conglomerate in such establishments as Vykkers Labs."
+summary: "Vykkers are an industrialist race of tripedal creatures native to Eastern Mudos, though some were known to have travelled further afield to the West (see Vykker Doc). Commonly scientists or doctors, most Vykkers were employed by the Vykker Conglomerate in such establishments as [Vykkers Labs](/locations/vykkers-labs)."
   
 biology: |
   ## Appearance
   
-  Vykkers are an andrognyous, hermaphroditic race of purple-skinned tripeds. They have frail bodies with disproportionately large heads and small, beady eyes. As a result of self-inflicted life extending surgery, which allows Vykkers to survive long past their natural lifespan, their skin is wrinkled and saggy, with bones, veins and muscles easily visible.
+  Vykkers are an androgynous, hermaphroditic race of purple-skinned tripeds. They have frail bodies with disproportionately large heads and small, beady eyes. As a result of self-inflicted life extending surgery, which allows Vykkers to survive long past their natural lifespan, their skin is wrinkled and saggy, with bones, veins and muscles easily visible.
   
   Vykkers have a total of seven limbs. Four of these are short, spindly arms, each ending in three long-clawed digits (but no discernible hand). Notably, the claws themselves are used for gripping objects, as opposed to the digits, which are short and stubby in comparison. The remaining limbs are legs, arranged in a tripodal stance with two facing forwards and one backwards. These are also short and stubby.
   
@@ -21,20 +21,17 @@ biology: |
   
   Nevertheless, some Vykkers also have sadomasochistic tendencies, and in actuality do enjoy having pain inflicted upon themselves. Some such Vykkers were seen to attend the Gabbiar auction on Vykkers Labs 13. These individuals had grafted strips of skin onto their own faces from other parts of the body.
   
-  Like Mudokons, Vykkers show little regard for clothing, usually dressing in little more than a loincloth, though headgear and eyewear are also common. The vast majority of Vykkers speak in a shrill, whiny voice, though some have a much deeper register (see Headley).
+  Like Mudokons, Vykkers show little regard for clothing, usually dressing in little more than a loincloth, though headgear and eyewear are also common. The vast majority of Vykkers speak in a shrill, whiny voice; though some, like Headley, have a much deeper register.
   
   
 background: |
-  Vykkers were almost universally affiliated with the Vykker’s Conglomerate, an industrial corporation based in Eastern Mudos which worked closely with the Magog Cartel run by the Glukkons. Though they were shown to place less value in financial success than their Glukkon business partners, some Vykkers were quite wealthy, and several were seen to flaunt their wealth in an exclusive auction for the last can of Gabbiar on Oddworld.
-  However, for the most part, the Vykkers were happy to carry out their research simply because they enjoyed the infliction of pain on others.
-  This research was typically conducted through Vykkers Pharmaceuticals, a division of the Vykker's Conglomerate which owned and operated a fleet of airborne research facilities.
-  One such facility, Vykkers Labs 13, was destroyed by the Fuzzles with the aid of Abe and Munch, along with all the Vykkers onboard, as retaliation for the painful experiments they had been subjected to.
+  Vykkers are almost universally affiliated with the Vykker’s Conglomerate, an industrial corporation based in Eastern Mudos which worked closely with the Magog Cartel run by the Glukkons. Though they are shown to place less value in financial success than their Glukkon business partners, some Vykkers are quite wealthy, and several were seen to flaunt their wealth in an exclusive auction for the last can of Gabbiar on Oddworld. However, for the most part, the Vykkers are happy to carry out their research simply because they enjoy the infliction of pain on others. This research is typically conducted through Vykkers Pharmaceuticals, a division of the Vykker's Conglomerate which owned and operated a fleet of airborne research facilities. One such facility, Vykkers Labs 13, was destroyed by the Fuzzles with the aid of Abe and Munch, along with all the Vykkers onboard, as retaliation for the painful experiments they had been subjected to.
   
   Though the Vykkers primarily operated within the Vykker’s Conglomerate in Eastern Mudos, some were shown to be freelancers. One notable example is that of the Vykker Doc, who travelled to Western Mudos to apply his trade at exorbitant prices.
   
 notable-individuals: ["Humphrey", "Headley", "Irwin", "Doc"]
   
-appears-in:
+features-in:
   ## Games
     - "Oddworld: Abe's Exoddus *(First Mentioned)*"
     - "Oddworld: Munch's Oddysee *(First Appearance)*"
@@ -48,9 +45,7 @@ appears-in:
 trivia:
   - "The concept for the Vykkers was inspired by UFO abduction stories from real-world popular culture. The creatures resemble ‘typical’ aliens and Vykkers Labs itself is reminiscent of a flying saucer."
   - "Though the biological classification of Vykkers remains unknown, they are confirmed to exist within the same taxonomic order as their subservient Interns."
-  
-gallery:
-  
+
 references:
   - "*Dear Alf 54*, http://www.oddworld.com/2013/11/dear-alf-54-abe-stranger/"
   - "*Oddworld: Munch's Oddysee - A Brief History*, https://web.archive.org/web/20090602003657/http://www.xbox.com/en-US/games/o/oddworldmunchsoddysee/storyline.htm"
