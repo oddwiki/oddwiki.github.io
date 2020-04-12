@@ -7,6 +7,8 @@
 
 {{ include.item.summary }}
 
+{% include building_blocks/description.md %}
+
 {% include building_blocks/trivia.md %}
 
 {% include building_blocks/gallery.md %}
