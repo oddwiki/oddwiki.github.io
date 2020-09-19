@@ -1,4 +1,9 @@
 {% if include.item.description %}
 # Description
-{{ include.item.description }}
+
+## Appearance
+{{ include.item.description.appearance }}
+
+## Behaviour
+{{ include.item.description.behaviour }}
 {% endif %}

@@ -2,10 +2,21 @@ name: "Gabbit"
 
 summary: "Gabbits are short amphibious creatures that once wildly inhabited the waters of Oddworld, but their numbers quickly depleted as they were hunted down by the [Vykkers](/species/vykker) and made into [Gabbiar](/items/gabbiar)."
 
-biology: "A Gabbit's body is made up of a large head with bulging eyes and little shark-like teeth, connected to a small torso with little skinny arms, and a single fin like leg used for swimming in water and hopping about on land. Gabbits are extreemly social creatures who communicate to each other via musical whistles and chirps, produced by their tongues."
+description:
+  appearance: |
+    A Gabbit's body is made up of a large head with bulging eyes and little shark-like teeth, connected to a small torso with little skinny arms, and a single fin like leg used for swimming in water and hopping about on land.
+
+  behaviour: |
+    Gabbits are extremely social creatures who communicate to each other via musical whistles and chirps, produced by their tongues.
 
 notable-individuals: ["[Munch](/characters/munch)"]
 
-appearances: ["Oddworld: Munch's Oddysee", "Oddworld: Munch's Oddysee HD", "Oddworld: Munch's Oddysee Gameboy Advance"]
+features-in:
+  - "[Oddworld: Munch's Oddysee](/games/munchs-oddysee)"
+  - "[Oddworld: Munch's Oddysee HD](/games/munchs-oddysee)"
+  - "[Oddworld: Munch's Oddysee Gameboy Advance](/games/munchs-oddysee)"
+  - "[The Art of Oddworld Inhabitants: The First Ten Years 1994 - 2004](/misc/taooi)"
 
-references: ["The Art of Oddworld", "https://www.oddworld.com/oddworldgames/munchs-oddysee/"]
+references:
+  - "*The Art of Oddworld Inhabitants: The First Ten Years, 1994 - 2004*, <https://online.fliphtml5.com/vovua/gcxi>"
+  - "*Oddworld: Munch's Oddysee*, <https://www.oddworld.com/oddworldgames/munchs-oddysee/>"
