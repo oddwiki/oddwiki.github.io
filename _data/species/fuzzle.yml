@@ -7,10 +7,14 @@ description:
     Fuzzles are spherical, brown-furred creatures whose unassuming form hides a set of large sharp teeth.
 
   behaviour: |
-    Fuzzles are ambush predators. They lie in wait, hidden in places such as bushes and alcoves, until their prey stumbles across them. That is when they pounce, their sharp teeth tearing through their prey's flesh with ease.
+    Fuzzles are ambush predators. They lie in wait, hidden in places such as bushes and alcoves, until their prey stumbles across them. That is when they pounce, their sharp teeth tearing through their prey's flesh with ease.[^strangers-wrath] They have also shown to be loyal to those who help them, even willing to obey commands.[^munchs-oddysee]
 
 features-in:
   - "[Oddworld: Munch's Oddysee](/games/munchs-oddysee) *(First Appearance)*"
   - "[Oddworld: Stranger's Wrath](/games/strangers-wrath)"
   - "[Oddworld: Munch's Oddysee HD](/games/munchs-oddysee)"
   - "[Oddworld: Stranger's Wrath HD](/games/strangers-wrath)"
+
+references:
+  - "[^munchs-oddysee]: [Munch's Oddysee](/games/munchs-oddysee)"
+  - "[^strangers-wrath]: [Stranger's Wrath](/games/strangers-wrath)"
