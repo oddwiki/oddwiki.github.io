@@ -9,7 +9,15 @@
 
 {{ include.item.summary }}
 
-{% include building_blocks/description.md %}
+{% if include.item.gameplay %}
+# Gameplay
+{{ include.item.gameplay }}
+{% endif %}
+
+{% if include.item.story %}
+# Story
+{{ include.item.story }}
+{% endif %}
 
 {% include building_blocks/trivia.md %}
 

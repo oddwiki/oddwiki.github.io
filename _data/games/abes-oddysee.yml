@@ -1,5 +1,71 @@
 name: "Abe's Oddysee"
 
-stub: true
+quote: "\"My whole life changed in just one day...\" - Abe"
 
-summary: "Gluk big boss. Abe big bad."
+summary: "**Oddworld: Abe's Oddysee** is a two-dimensional cinematic puzzle platformer and the first game in the old [Oddworld Quintology](/games/quintology). It was built using the A.L.I.V.E Engine and released on PlayStation 1 and Windows. The game revolves around the eponymous [Abe](/characters/abe), a meek [Mudokon](/species/mudokon) slave at the meat processing plant [RuptureFarms 1029](/locations/rupturefarms). Stumbling upon a board meeting by his bosses, he discovers that the company's profits are low and that he and his fellow Mudokons are to become the next food product that the factory will produce in order to recover the lost funds. After hearing this, Abe decides to escape and liberate as many enslaved Mudokons as he can. The player assumes the role of Abe as he attempts a perilous quest to emancipate his downtrodden people."
+
+gameplay: |
+  The gameplay in Abe's Oddysee is two-dimensional for the most part, although there is a background layer that is sometimes utilised in levels that entities such as [Sligs](/species/slig) and Chant Suppressors can attack Abe from. Movement is grid-based; for example, stepping will move one grid space, jumping will move two and run-jumping will move four. Level layouts are divided into screens; some elements carry across screens, some do not. Most of the game involves stealthily navigating around enemies and solving various puzzles, using GameSpeak to interact with Mudokons and get them to follow Abe to bird portals which are opened via chanting. Chanting also grants Abe the ability to possess Sligs, allowing him to control one as if it were his own body. This allows him to use a Slig's weapon or use GameSpeak to tell other Mudokons to duck so he can shoot other Sligs, open specific locks tied to a Slig's voice, beat other Mudokons because he feels like it, or even command Slogs. On rare occasions, Abe can also be granted the power of becoming invisible for a short period of time, use destruction rings that detonate all explosives on a screen or even become a demigod for a moment to vaporise everything on a screen.
+
+story: |
+  The story of Abe's Oddysee is told mostly in flashback form. It begins with Abe chained up in an interrogation chamber, lamenting his situation and recent events while awaiting punishment from his boss [Molluck](/characters/molluck) the [Glukkon](/species/glukkon). He reminisces about how his life changed in just one day, thinking back to when he was working late one night in RuptureFarms. He was waxing the floors, stopping occasionally to look at the posters of the various products the factory produces such as [Scrab](/species/scrab) Cakes, [Paramite](/species/paramite) Pies and the discontinued [Meech](/species/meech) Munchies. When he got to a poster about a new upcoming product, a nearby door opened up slightly; the light from the room shining upon him and drawing his attention. Out of curiosity, he sneaked his way over towards the ajar door and peered inside. It turned out that the room in question was the [company boardroom](/locations/boardroom) where a meeting of the Glukkon executives involved was being held, headed by Molluck.
+
+  Listening in, Abe learned that the company's profits were dwindling due to the Scrabs and Paramites used to make their respective products becoming harder and harder to find and that the other Glukkons were concerned about the future of the factory. He observed that Molluck was not concerned about the situation. It quickly transpired that was because Molluck was about to show off the new product that would boost the failing company into new heights. Abe leaned into the boardroom further, curious about what his boss had come up with. To his horror, it turned out that the new product was Mudokon Pops. Hearing the approving laughter of the Glukkon executives at the idea, he realised his life and the lives of his fellow workers were all in imminent danger. With this in mind, he made his decision to find a way to escape from the factory and potentially help others escape as well. Unfortunately, as he fled away from the boardroom, his eavesdropping did not go unnoticed by a nearby security camera. The alarm was quickly sounded, Abe now branded a wanted fugitive; spurring Abe on even more to escape.
+
+  After making his way through the first Zulag, Abe found that the entrance to the others was blocked off. Deciding to take another route, he found that he could escape RuptureFarms via an exit to the [StockYards](/locations/stockyards); although he was also confronted with a warning that any of the 28 Mudokons in the Zulag that he left behind would be executed. Rolling his way out of the exit, he landed in one of many barrels on the conveyor system. Shortly after, he found himself knocked out for a few moments by a low-hanging pipe. This turned out to save his life as his body collapsed into the barrel just as it was passing by a couple of Sligs, allowing him to pass by unnoticed. Recovering from the sudden impact, Abe tilted the barrel so he would fall out of it and into the StockYards proper.
+
+  Navigating his way through the various mines, floating bombs and motion detectors, along with the occasional Scrab kept in pens, he made his way into the [Free Fire Zone](/locations/free-fire-zone). The zone was filled with Slig and [Slog](/locations/slog) patrols and, as the name suggested, they were permitted to attack anything that entered it. Using the lack of light in the area to his advantage, Abe slipped his way past the patrols and eventually found himself at the edge of a cliff. Before him was a peculiar sight that gave him pause: [a moon whose crater was in the shape of his paw](/misc/moon). Before he could ponder the ramifications of this: he heard, then felt, the cliff edge breaking under his feet. He plummeted downwards, his body smashing against the rock face a few times before he finally landed on his head when he hit the ground. The impact killed him instantly.
+
+  Death would not be the end for Abe, however; for in the state of limbo between life and beyond, a mysterious figure that Abe termed [BigFace](/characters/bigface) (due to the mask he wore covering up around half of his body) appeared before him. He informed Abe of his new mortally-challenged status and revealed to him the bigger picture. He told him that the land was being altered, being unbalanced at best; that the Scrabs and Paramites that the factory makes into food products had been regarded as sacred in the past. He informed Abe that escaping RuptureFarms was only the first step on his journey and that he would be tested by going through various trials in temples located in the respective domains of the creatures: the desert region of [Scrabania](/location/scrabania) and the forest region of [Paramonia](/locations/paramonia). Upon which, Abe awoke back to life and found himself in the [Monsiac Lines](/locations/monsiac-lines).
+
+  Avoiding the industrialist presence in the area, and ensuring the native Mudokons there that he meant no harm, Abe found his way to the well transportation system that would take him to Scrabania and Paramonia. As he went to each region, he was awed by visions of what the Scrabs and Paramites used to be like and subsequently filled with outrage at his own unwitting compliance of their slaughter and exploitation. Making his way to each region's temple with the assistance of [Elum](/species/elum), he passed the trials within them. Doing so brought him back to BigFace, who etched a scar on each of his hands for each temple he overcame: one for Scrabania and one for Paramonia. Once he acquired both hand scars, he proved himself worthy of gaining the ability to become the avatar of a deity known as the [Shrykull](/characters/shrykull). Using the Shykull's power, he cleared a blockade of industrialists in the Monsiac Lines and began his journey back to RuptureFarms.
+
+  Having once again found himself in the Free Fire Zone, the security of which had only increased, Abe eventually found a bird portal that acted as a backdoor into the meat processing plant. Going through it led him back to the first Zulag, with the door to the other Zulags now open. As he made his way through the other three Zulags, he was being watched by Molluck who had noticed his return; becoming angrier and angrier as the renegade Mudokon caused more disruption and destruction. When Abe had found a switch in the fourth Zulag that shut down most of the factory, Molluck was at his limit. He ordered for the entirety of the plant to be filled with poisonous gas, killing anyone caught within it.
+
+  Hearing the alarm signalling the imminent release of the poisonous gas, Abe swiftly made his way through a gauntlet of obstacles to rescue the last Mudokon in the factory and gain the Shykull's power once again. Landing in the boardroom, he found himself surrounded by Glukkon executives crying out for his death. Two Sligs dropped from above to deliver just that; but they were in for a nasty surprise as the demigod of destruction formed once more, its bolts of lighting rapidly striking and vaporising everyone in the room. When Abe's body returned to himself, he pulled the lever to shut off the gas delivery system. Unfortunately, at that point two more Sligs dropped from above and one of them knocked Abe out with the butt of his rifle before the Mudokon had any chance to counterattack or escape. They dragged his unconscious body away and, when Abe woke up, he found himself in the interrogation room that he now resides in.
+
+  As he finishes remembering everything that brought him here, the sliding doors in front of him open to reveal Molluck staring at him. The Glukkon orders the Slig with him to pull a lever nearby Abe. To the Mudokon's horror, it opens up a hole in the floor under Abe's feet; revealing a meat grinder spinning up underneath. Realising his fate, he desperately begs his former boss for mercy; but he finds none. What happens next depends on how many Mudokons he managed to rescue over the course of his journey.
+
+  ## Good Ending
+  If Abe has rescued at least 50 Mudokons, they come to his aid by activating a mystical storm generator known as the Rainmaker. It manifests a storm above RuptureFarms, bolts of energy striking through the many floors of the factory. Just before the Slig can pull the lever to send Abe into the meat grinder, the bolts strike him repeatedly. Molluck can only look on in bewilderment and horror before searing pain shoots through him as the storm begins striking him as well. His suit is seared away by the lightning, disintegrating into ashes as both Molluck and the Slig collapse onto the floor, twitching in agony. As Abe sighs in relief at having his death averted, BigFace teleports into the room and warps both himself and Abe out of there. The storm continues to ravage the factory in their absence, setting it ablaze.
+
+  BigFace and Abe appear on top of a podium flanked by two Scrabs and two Paramites, with a huge crowd of cheering Mudokons in front of them. BigFace raises Abe's arm in celebration and recognition of his work to save his fellow Mudokons. Abe smiles as he soaks in the appreciation, punctuating the end with a wink and a fart. The credits then roll.
+
+  ## Angelic Ending
+  If Abe has rescued all 99 Mudokons, the same events play out as in the Good Ending with the addition of the player also receiving a congratulatory message:
+
+  > All right, chump. You've burned us out. You've found all the secrets, rescued all the Mudokons, and triumphed over the sleazy forces of corporate greed. We'd like to give you something really cool as a reward, but the Glukkons...err, the lawyers...won't let us. Bunch of creeps. Instead, you get...
+
+  The player is then taken to the FMV Cutscene viewer.
+
+  ## Bad Ending
+  If Abe has not managed to rescue at least 50 Mudokons, they leave him to die. BigFace tries to convince them to save him anyway, but they refuse. The Slig pulls the lever upon Molluck's command and Abe is sent down into the meat grinder, where he is swiftly mulched. Molluck and the Slig laugh at Abe's demise. The player then receives a message admonishing their failure:
+
+  > Smooth move, knucklehead. You fight all the way to the end of RuptureFarms, then get punked because you didn't rescue enough Mudokons. Yes, it's fun to blow them up, but you've got to save at least fifty Mudokons if you want to save your own worthless hide. Try again!
+
+  The game then starts from the beginning of the return to the first Zulag, meaning Abe must rescue every single Mudokon from that point to get the Good Ending or start all over again.
+
+  ## Black Ending
+  If Abe has deliberately murdered at least 75 Mudokons, the same events play out as in the Bad Ending except that the message to the player is different:
+
+  > Whacking all those Mudokons was no accident.<br>
+  > You twisted creep.<br>
+  > Molluck commends you.<br>
+  > Enjoy your bonus...!<br><br>
+  > ...Infinite Grenades!<br><br>
+  > Compliments of Molluck<br>
+  > CEO of RuptureFarms
+
+  The game then begins again, except Abe now has an infinite amount of grenades at his disposal.
+
+trivia: "One of the planned names for Abe's Oddysee was Soulstorm, a name that would be used for [another game](/games/soulstorm) many years later."
+
+gallery:
+  - image-url: "/imgs/ao/board-meeting.jpg"
+    description: "The board meeting that changed everything for everyone."
+
+  - image-url: "/imgs/ao/exit-to-stockyards-warning.jpg"
+    description: "The warning at the exit to the StockYards in RuptureFarms."
+
+  - image-url: "/imgs/ao/the-bigger-picture.jpg"
+    description: "Being dead doesn't mean Abe can rest. Things have only just begun."
