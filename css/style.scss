@@ -5,7 +5,8 @@
 
 $width: 700px;
 
-body, html {
+body, html
+{
   margin: 0;
 
   font-family: "Cantarell", "Helvetica", sans-serif;
@@ -14,20 +15,24 @@ body, html {
   font-size: 1.05rem;
 }
 
-html {
+html
+{
   background: white;
 }
 
-a {
+a
+{
   color: #aaaa88;
 }
 
-html {
+html
+{
   height: 100%;
   background: #212;
 }
 
-body {
+body
+{
   background: url("/imgs/bgs/bg5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,50 +47,60 @@ body {
   grid-template-areas:". body";
 
 
-  & > div {
-  grid-area: body;
-  background: rgba(51,34,51, 0.9);
-  padding: 1rem 3rem;
+  & > div
+  {
+    grid-area: body;
+    background: rgba(51,34,51, 0.9);
+    padding: 1rem 3rem;
   }
 }
 
-#pagetitle {
+#pagetitle
+{
   font-size: 4rem;
 }
 
-main {
-  h1,h2,h3 {
+main
+{
+  h1,h2,h3
+  {
     background: #212;
     padding: 0.2rem 1rem 0.5rem 1rem;
     display: table;
     box-sizing: border-box;
   }
 
-  blockquote {
+  blockquote
+  {
     display: table;
     background: #212;
     padding: 1rem;
     border-left: 3px solid;
     margin-left: 0;
 
-    p:first-child {
+    p:first-child
+    {
       margin-top: 0;
     }
 
-    p:last-child {
+    p:last-child
+    {
       margin-bottom: 0;
     }
   }
 
-  figure {
+  figure
+  {
     width: $width;
     max-width: 100%;
 
-    img {
+    img
+    {
       width: 100%;
     }
 
-    figcaption {
+    figcaption
+    {
       width: calc(100% - 1.2rem);
       margin: 0;
       margin-top: -4px;
@@ -95,7 +110,8 @@ main {
     }
   }
 
-  #image_gallery {
+  #image_gallery
+  {
     width: $width * 1.25;
     display: grid;
     grid-template-columns: repeat(3, 33%);    
@@ -105,38 +121,45 @@ main {
     padding-left: 0;
     list-style: none;
 
-    figure {
+    figure
+    {
       margin: 0;
     }
   }
 
-  nav {
+  nav
+  {
     display: table;
     background: #212;
 
-    h3 {
+    h3
+    {
       margin: 0;
       margin-bottom: 0.5rem;
       background: #101;
     }
 
-    ul {
+    ul
+    {
       margin: 0;
       margin-bottom: 1rem;
     }
   }
 }
 
-p {
+p
+{
   width: $width;
 }
 
-h3 {
+h3
+{
   display: table;
   text-transform: capitalize;
 }
 
-#cats {
+#cats
+{
   display: grid;
   grid-template-columns: repeat(3, 33%);
   grid-auto-rows: 1fr;

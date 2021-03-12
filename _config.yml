@@ -16,7 +16,7 @@ collections:
     output: true
   characters:
     output: true
-  concepts:
+  events:
     output: true
   irl:
     output: true

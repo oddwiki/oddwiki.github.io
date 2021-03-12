@@ -4,7 +4,7 @@ layout: index
 
 **Welcome to OddWiki!**
 
-This site is intended to become a fully sourced Oddworld Encyclopedia, where
+This site is intended to become a fully-sourced Oddworld Encyclopedia, where
 unsure fans can come to make sure their knowledge is correct.
 
 <div id="cats">
