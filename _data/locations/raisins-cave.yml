@@ -1,5 +1,13 @@
 name: "Raisin's Cave"
 
-stub: true
-
 quote: "\"You WILL go to Vykkers labs.\" - Raisin"
+
+summary: "The Raisin's Cave is a location featured in [Oddworld: Munch's Oddysee](/games/munchs-oddysee). It is the home of [The Almighty Raisin](/characters/the-almighty-raisin)", and is visited twice by [Abe](/characters/abe) and once by [Munch](/characters/munch) on their journey to bring down [Vykker's Labs](/locations/vykkers-labs).
+
+description: "As its name suggests, The Raisin's Cave is a large, poorly-lit cave in which The Almighty Raisin resides. The cave appears only once as a playable area, in the very first level, [Raisin's Cave], where it serves as a tutorial to introduce the player to some of the game's basic mechanics. Abe later returns to the cave with Munch, though this time it is only seen through a cutscene between the levels [Paramite Run] and [Meep Herder Village]."
+
+features-in:
+  - "[Munch's Oddysee](/games/munchs-oddysee) *(First Appearance)*"
+
+references:
+  - "[^munchs-oddysee]: [Munch's Oddysee](/games/munchs-oddysee)"
