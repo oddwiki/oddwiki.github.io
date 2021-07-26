@@ -1,0 +1,15 @@
+name: "Sleech"
+
+stub: true
+
+summary: "**Sleeches** are fast and dangerous predatory native wildlife that exist in dark environments such as the depths of the [Keeper's Sanctum](/locations/sanctum)."
+
+description:
+  appearance: |
+    Sleeches have brownish-grey bulbous bodies covered with multiple bumps that gives their skin the appearance of a rocky surface. They have multiple brown tentacles streaming from said bodies, at the end of which are curved yellow stingers that are capable of instantly killing any prey they dig into. They also possess glowing red eyes.
+
+  behaviour: |
+    The primary defining characteristic of Sleeches is their severe aversion to bright lights. As a result, they prefer to live in environments with little or no light. They are highly predatorial, immediately chasing down and instantly killing any prey that is foolish enough to wander into their territory.
+
+features-in:
+  - "[Oddworld: Sousltorm](/games/soulstorm)"
