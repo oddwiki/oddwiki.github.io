@@ -41,17 +41,25 @@ body
   margin: 0 auto;
   min-height: 1000px;
 
-
   display: grid;
   grid-template-columns: auto 60%;
   grid-template-areas:". body";
-
 
   & > div
   {
     grid-area: body;
     background: rgba(51,34,51, 0.9);
     padding: 1rem 3rem;
+
+    @media (orientation: portrait)
+    {
+      padding: 1rem;
+    }
+  }
+
+  @media (orientation: portrait)
+  {
+    display: block;
   }
 }
 
@@ -121,6 +129,17 @@ main
     padding-left: 0;
     list-style: none;
 
+    @media (orientation: portrait)
+    {
+      grid-template-columns: 37%;
+      grid-auto-rows: 0fr;
+
+      @media (min-width: 760px)
+      {
+        grid-template-columns: repeat(2, 41%);
+      }
+    }
+
     figure
     {
       margin: 0;
@@ -150,6 +169,11 @@ main
 p
 {
   width: $width;
+
+  @media (orientation: portrait)
+  {
+    width: unset;
+  }
 }
 
 h3
@@ -163,4 +187,15 @@ h3
   display: grid;
   grid-template-columns: repeat(3, 33%);
   grid-auto-rows: 1fr;
+
+  @media (orientation: portrait)
+  {
+    grid-template-columns: repeat(2, 50%);
+    grid-auto-rows: 0fr;
+
+    li
+    {
+      padding-bottom: 1rem;
+    }
+  }
 }
